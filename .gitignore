@@ -13,3 +13,6 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+/conf/blog-prod.conf
+/conf/blog-local.conf
+/conf/application-prod.conf
