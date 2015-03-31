@@ -16,3 +16,4 @@ dist
 /conf/blog-prod.conf
 /conf/blog-local.conf
 /conf/application-prod.conf
+/public/resume.html
