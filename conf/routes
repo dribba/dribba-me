@@ -10,3 +10,6 @@ GET     /                           controllers.Application.index
 GET     /assets/*file               controllers.Assets.at(path="/public", file)
 
 GET     /resume                     controllers.Assets.at(path="/public", file="resume.html")
+
+# Google activation file
+GET     /googleab1672861a600d24.html    controllers.Assets.at(path="/public", file="googleab1672861a600d24.html ")
